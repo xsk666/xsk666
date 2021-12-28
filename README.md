@@ -4,7 +4,16 @@
         <img src="https://github-readme-stats.vercel.app/api?username=xsk666&show_icons=true&bg_color=0,ffafbd,ffc3a0&icon_color=fff&title_color=fff&text_color=fff" alt="GitHub README Stats" />
         <img src="https://github-readme-streak-stats.herokuapp.com?user=xsk666&background=A0D8EF&border=ABCED8&stroke=FFF1CF&ring=D6E9CA&fire=F5B1AA&currStreakNum=595857&sideNums=7D7D7D&currStreakLabel=CE5242&sideLabels=E9546B&dates=5A79BA" alt="GitHub README Streak" />
          <!-- waka-box start -->
-         <!-- waka-box end -->
+#### <a href="https://gist.github.com/b6e3cb8443b2dd0db9ec98b1211f346d" target="_blank">📊 Weekly development breakdown</a>
+```text
+C++        🕓 1h16m ████████████████▎░░░░░░░░░░░ 58.4%
+JSON       🕓 23m   █████░░░░░░░░░░░░░░░░░░░░░░░ 18.0%
+Python     🕓 17m   ███▊░░░░░░░░░░░░░░░░░░░░░░░░ 13.7%
+Other      🕓 7m    █▌░░░░░░░░░░░░░░░░░░░░░░░░░░  5.7%
+JavaScript 🕓 5m    █▏░░░░░░░░░░░░░░░░░░░░░░░░░░  4.3%
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- waka-box end -->
     </a>
 </section>
 <br>
