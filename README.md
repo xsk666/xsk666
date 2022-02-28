@@ -9,7 +9,11 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/b6e3cb8443b2dd0db9ec98b1211f346d" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Still Gathering Statistics...
+Java                 🕓 18h31m ███████▊░░░░░░░░░ 46.2%
+Python               🕓 11h56m █████░░░░░░░░░░░░ 29.8%
+HTML                 🕓 2h47m  █▏░░░░░░░░░░░░░░░  7.0%
+Groovy               🕓 2h2m   ▊░░░░░░░░░░░░░░░░  5.1%
+JSON                 🕓 1h13m  ▌░░░░░░░░░░░░░░░░  3.1%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
